@@ -2,6 +2,7 @@
     height: 170px;
     display: flex;
     justify-content: space-between;
+    background-color: #E2E8F0;
 }
 .menu{
 list-style: none;
@@ -34,8 +35,43 @@ margin-left: 20px;
     grid-template-columns: 80% 20%;
 }
 .esquerda{
+    background-color: #0F172A;
 }
 .direita{
+
+    border-radius: 8px;
+    background-color: #1E293B;
+}
+.barra_pesquisa{
+    margin-bottom: 30px;
+}
+.input_pesquisa{
+    width: 90%;
+    padding: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 20px;
+    background-color: #0F172A;
+}
+.titulo_genero{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1cm;
+}
+.botao_genero{
+    display: block;
+    padding: 12px;
+    margin-bottom: 8px;
+    border: 1px;
+    cursor: pointer;
+    height: 2cm;
+    width: 4cm;
+    background-color: #334155;
+
+}
+.botao_genero:hover{
+    background-color: #0D6EFD;
+    color: white;
+    border-color: #0D6EFD;
 }
 .fileira1{
     display: grid;
@@ -223,4 +259,7 @@ margin: 0;
 border: 0;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 20px;
+}
+.pe{
+    background-color: #020617;
 }
