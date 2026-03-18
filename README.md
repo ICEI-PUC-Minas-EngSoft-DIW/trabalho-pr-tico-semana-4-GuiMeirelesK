@@ -8,17 +8,18 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Guilherme Gonçalves Meireles
+- Matricula:911985
+- Proposta de projeto escolhida: Site sobre filmes
+- Breve descrição sobre seu projeto: Basicamente eu gosto muito de asssitir filmes e usei como tema pra apresentar alguns filmes que eu gosto de temas variados e apresentar um pouco sobre no meu projeto, inspirado em sites famosos de filmes e etc.
 
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![alt text](<WhatsApp Image 2026-03-16 at 15.29.02 (1).jpeg>) >>
 
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+<< ![alt text](public/images/screencapture-127-0-0-1-5501-public-2026-03-18-19_59_04.png) >>
+
