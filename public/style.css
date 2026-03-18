@@ -2,11 +2,12 @@
     height: 170px;
     display: flex;
     justify-content: space-between;
-    background-color: #3b4249dc;
+    background-color: #2f3235dc;
+    border-radius: 5px;
 }
 header a{
     text-decoration: none;
-
+    border-radius: 5px;
 }
 .menu{
 list-style: none;
@@ -15,7 +16,10 @@ padding: 40px;
 gap: 40px;
 font-size: 25px;
 font-family: Arial, Helvetica, sans-serif;
-color: #8fb4e5;
+font-style: italic;
+}
+.menu li a{
+    color: #E5E7EB;
 }
 .logo{
     display: flex;
@@ -268,6 +272,9 @@ font-size: 20px;
 }
 .pe{
     background-color: #020617;
+    height: 1cm;
+    color: #E5E7EB;
+    border-radius: 5px;
 }
 p{
     color: #E5E7EB;
