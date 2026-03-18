@@ -1,3 +1,226 @@
-body {
-    background-color: aquamarine;
+.cabecalho{
+    height: 170px;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+list-style: none;
+display: flex;
+padding: 40px;
+gap: 40px;
+font-size: 25px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.logo{
+    display: flex;
+}
+.titulo{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 120px;
+margin: 10px;
+margin-left: 20px;
+}
+.claquete{
+    height: 6cm;
+    width: 6cm;
+    margin-top: -1cm;
+    margin-left: -1cm;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 80% 20%;
+}
+.esquerda{
+}
+.direita{
+}
+.fileira1{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    height: 280px;
+    border-bottom: 2px solid;
+    padding-bottom: -10px;
+}
+.fileira2{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    height: 280px;
+    border-bottom: 2px solid;
+    padding-bottom: -10px;
+}
+.fileira3{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    height: 280px;
+}
+.video1{
+    margin: 18px;
+}
+.bond{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.skyfall{
+    margin: 0;
+    border: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.video2{
+    margin: 18px; 
+}
+.bastardos_inglorios{
+height: 5cm;
+width: 8cm;
+object-fit: cover;
+}
+.bastardos{
+    margin: 0;
+    border: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.video3{
+    margin: 20px;
+}
+.como{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.cpuh{
+    margin: 0;
+    border: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.video4{
+    margin: 20px;
+}
+.idm{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.ilha{
+margin: 0;
+border: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+.video5{
+    margin: 20px;
+}
+.invocacao{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.idmal{
+margin: 0;
+border: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+.video6{
+    margin: 20px;
+}
+.chefe{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.chefao{
+margin: 0;
+border: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+.video7{
+    margin: 20px;
+}
+.maquina{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.guerra{
+margin: 0;
+border: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+.video8{
+    margin: 20px;
+}
+.jogo{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.imitacao{
+margin: 0;
+border: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+.video9{
+    margin: 20px;
+}
+.batman{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.goat{
+margin: 0;
+border: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+.video10{
+    margin: 20px;
+}
+.top{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.maverick{
+margin: 0;
+border: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+.video11{
+    margin: 20px;
+}
+.vingadores{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.ultimato{
+margin: 0;
+border: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
+}
+.video12{
+    margin: 20px;
+}
+.trem{
+    height: 5cm;
+    width: 8cm;
+    object-fit: cover;
+}
+.bala{
+margin: 0;
+border: 0;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 20px;
 }
